@@ -190,7 +190,7 @@
         <div class="carousel-caption">
           <h1 class="text-white fw-bold sh">Fresh & Beautiful Flowers</h1>
           <p class="text-white sh p">We deliver fresh flowers to your doorstep</p>
-          <button class="hero-btn"><a href="#">Shop Now</a></button>
+          <button class="hero-btn"><a href="#product">Shop Now</a></button>
         </div>
       </div>
 
@@ -202,7 +202,7 @@
         <div class="carousel-caption">
           <h1 class="text-white fw-bold sh">Special Flower Bouquets</h1>
           <p class="text-white sh p">Order custom flower arrangements</p>
-          <button class="hero-btn"><a href="#">Shop Now</a></button>
+          <button class="hero-btn"><a href="#product">Shop Now</a></button>
         </div>
       </div>
     </div>

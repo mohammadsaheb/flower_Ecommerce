@@ -65,12 +65,12 @@ require '../controller/coupon.php';
 
    <header class="header" id="header">
       <nav class="nav nav-container">
-         <a href="#" class="nav__logo">Flower <span class="logo-span">.</span></a>
+         <a href="./home.php" class="nav__logo">Flower <span class="logo-span">.</span></a>
 
          <div class="nav__menu" id="nav-menu">
             <ul class="nav__list">
                <li class="nav__item">
-                  <a href="#" class="nav__link">
+                  <a href="./home.php" class="nav__link">
                      <i class="ri-arrow-right-up-line"></i>
                      <span>Home</span>
                   </a>
@@ -199,7 +199,7 @@ require '../controller/coupon.php';
                   break;
                }
             ?>
-               <article>
+               <article id="product">
                   <div class="card__product" data-id="<?= htmlspecialchars($product['id']) ?>">
                      <img src="<?= htmlspecialchars($product['image']) ?>" alt="Product Image" class="card__img">
                      <div>

@@ -91,6 +91,9 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
+  
+
 }
 
 .nav__logo {
@@ -719,6 +722,7 @@ a {
   align-items: center;
   gap: 15px;
   font-size: var(--h1-font-size);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .categories_types {
   display: flex;

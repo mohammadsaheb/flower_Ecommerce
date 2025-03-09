@@ -10,10 +10,13 @@
 </head>
 
 <body>
+   
+    
     <section class="body">
         <div class="about-section">
-            <h2>Flower Experts</h2>
-            <p>A perfect blend of creativity, energy, communication, happiness and love. Let us arrange a smile for you.</p>
+            <h2>About us</h2>
+            <p>Welcome to Flower Store, your trusted destination for fresh, beautiful blooms delivered right to your door! We are passionate about bringing nature’s beauty into your home, office, or special event with our wide selection of flowers, plants, and arrangements.</p>
+            <p>Behind Flower Store is a dedicated team of passionate developers and designers who work tirelessly to bring you the best online shopping experience. We blend creativity, technology, and a love for nature to deliver a platform that is not only user-friendly but also showcases the true beauty of flowers.</p>
             <div class="team">
                 <div class="team-member">
                     <img src="./assets/img/my_pic.jfif" alt="ZAID AHMAD">
@@ -26,8 +29,8 @@
                     <p>Manager</p>
                 </div>
                 <div class="team-member">
-                    <img src="./assets/img/my_pic.jfif" alt="AHMAD ALSAHEB">
-                    <h3>AHMAD ALSAHEB</h3>
+                    <img src="./assets/img/me.png" alt="AHMAD ALSAHEB">
+                    <h3>MOHAMMAD ALSAHEB</h3>
                     <p>Florist</p>
                 </div>
                 <div class="team-member">

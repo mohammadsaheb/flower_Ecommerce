@@ -64,10 +64,13 @@
   /* --------------------nav---------------------------- */
   ul {
     list-style: none;
+    
+  
   }
 
   a {
     text-decoration: none;
+    
   }
 
   /*=============== REUSABLE CSS CLASSES ===============*/
@@ -92,6 +95,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
   }
 
   .custom-nav__logo {
@@ -311,7 +315,7 @@
         </li>
 
         <li class="custom-nav__item">
-          <a href="./home.php#about" class="custom-nav__link">
+          <a href="./home#about" class="custom-nav__link">
             <i class="ri-arrow-right-up-line"></i>
             <span>About</span>
           </a>
@@ -320,7 +324,7 @@
 
 
         <li class="custom-nav__item">
-          <a href="./home.php#con" class="custom-nav__link">
+          <a href="./contact.php" class="custom-nav__link">
             <i class="ri-arrow-right-up-line"></i>
             <span>Contact</span>
           </a>
@@ -372,6 +376,14 @@
     </div>
   </nav>
 </header>
+<section id="about"><?php
+                        require "./about.php"; ?></section>
+   <section id="con"><?php
+                     require "./contact.php"; ?></section>
+   <section id="footer"><?php
+                        require "./footer.php";
+                        ?></section>
+
 <script>
   const navMenu = document.getElementById("nav-menu"),
     navToggle = document.getElementById("nav-toggle"),

@@ -79,7 +79,7 @@
           <p class="text-white">
             Find the most beautiful flowers for your loved ones
           </p>
-          <a href="#" class="btn btn-light">Shop Now</a>
+          <a href="#product" class="btn btn-light">Shop Now</a>
         </div>
       </div>
 
@@ -91,7 +91,7 @@
         <div class="carousel-caption">
           <h1 class="text-white fw-bold">Fresh & Beautiful Flowers</h1>
           <p class="text-white">We deliver fresh flowers to your doorstep</p>
-          <a href="#" class="btn btn-light">Explore</a>
+          <a href="#product" class="btn btn-light">Explore</a>
         </div>
       </div>
 
