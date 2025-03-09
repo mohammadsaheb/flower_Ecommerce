@@ -145,11 +145,11 @@ if ($row = mysqli_fetch_assoc($result)) {
         <div class="sidebar-heading text-white">Super Admin Dashboard</div>
         <div class="list-group list-group-flush">
             <a href="index.php" class="list-group-item list-group-item-action bg-dark nav-link"><i class="fas fa-home"></i> Dashboard</a>
-            <a href="product.php" class="list-group-item list-group-item-action bg-dark nav-link"><i class="fas fa-box"></i> Products</a>
             <a href="users.php" class="list-group-item list-group-item-action bg-dark nav-link"><i class="fas fa-users"></i> Users</a>
+            <a href="view_categories.php" class="list-group-item list-group-item-action bg-dark nav-link"><i class="fas fa-list"></i> Categories</a>
+            <a href="product.php" class="list-group-item list-group-item-action bg-dark nav-link"><i class="fas fa-box"></i> Products</a>
             <a href="view_orders.php" class="list-group-item list-group-item-action bg-dark nav-link"><i class="fas fa-shopping-cart"></i> Orders</a>
             <a href="view_coupons.php" class="list-group-item list-group-item-action bg-dark nav-link"><i class="fas fa-tags"></i> Coupons</a>
-            <a href="view_categories.php" class="list-group-item list-group-item-action bg-dark nav-link"><i class="fas fa-list"></i> Categories</a>
             <a href="../home.php" class="list-group-item list-group-item-action"><i class="fa-solid fa-bag-shopping"></i> Go shoping</a>
         </div>
     </div>
